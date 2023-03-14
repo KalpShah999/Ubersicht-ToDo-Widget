@@ -46,8 +46,9 @@ updateText: (number, tasks, newContent) ->
     $(newContent).find('.task' + (number + 1)).text("")
 
 afterRender: (newContent) ->
-  $(newContent).find(".txt-title").on 'click', =>
-    @run "open #{todolistfile}"
+  # # Open the text file containing the tasks (click on the title) 
+  # $(newContent).find(".txt-title").on 'click', =>
+  #   @run "open #{todolistfile}"
 
   # Delete a task 
   $(newContent).find(".txt-task").on 'click', (event) => 
