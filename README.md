@@ -5,7 +5,7 @@
   * This widget allows you to have a todo list built-in on your Mac desktop 
  
 # Things to know
-  * Drag the folder into your Ubersicht .widgets folder
+  * Drag the "todo.widget" folder into your Ubersicht widgets folder
   * To edit, open the "index.coffee" file
     * There are values at the top of the script that can be edited for simple changes 
     * For more detailed edits, you can change the rest of the file (ONLY if you know what you're doing though)
