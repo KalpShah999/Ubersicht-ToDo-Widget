@@ -12,5 +12,5 @@
     * If something breaks and the program stops running, don't worry, just redownload the folder :)
 
 
-Sample View: 
+# Sample View
 <img width="1440" alt="screenshot" src="https://user-images.githubusercontent.com/69281590/225193491-300c06d5-9c21-4b00-b8f2-72be034d78e5.png">
